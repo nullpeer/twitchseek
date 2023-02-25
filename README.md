@@ -1,4 +1,4 @@
-# TwitchSeeker
+# TwitchSeek
 ### Возможности:
 <ul>
 <li>Мониторинг чатов в Twitch</li>
