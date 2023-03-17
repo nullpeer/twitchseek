@@ -1,6 +1,6 @@
 // Group Reflection (c) All Rights Reserved 2021—2023
 
-// by GVNB
+// by uBADAWAY
 
 const prompt = require('prompt-sync')();
 const channel = prompt('Введите название канала.\nУчтите, что на нём должна вестись прямая трансляция.\n\n');
