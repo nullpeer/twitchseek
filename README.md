@@ -1,15 +1,9 @@
 # TwitchSeek
-### Возможности:
+### Abilities:
 <ul>
-<li>Мониторинг чатов в Twitch</li>
-<li>Не нужна авторизация</li>
+<li>The Twitch chats monitoring</li>
+<li>Don’t needed the authorization on Twitch</li>
 </ul>
 
-### Обновления в будущем:
-<ul>
-<li>Возможность записи логов в файл</li>
-<li>Проверки для устранения ошибок</li>
-</ul>
-
-### Скриншоты:
-![Скриншот](https://i.ibb.co/Tmqz3Hv/image.png)
+### Screenshots:
+![Screenshot](https://i.ibb.co/Tmqz3Hv/image.png)
