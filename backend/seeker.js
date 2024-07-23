@@ -1,9 +1,7 @@
-// Group Reflection (c) All Rights Reserved 2021—2023
-
-// by uBADAWAY
+// by nullpeer <3
 
 const prompt = require('prompt-sync')();
-const channel = prompt('Введите название канала.\nУчтите, что на нём должна вестись прямая трансляция.\n\n');
+const channel = prompt('Enter the name of the channel.\nKeep in mind that the live translation on this channel have to be started.\n\n');
 
 const tmi = require('tmi.js');
 const options = {
